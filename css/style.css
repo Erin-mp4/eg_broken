@@ -63,6 +63,7 @@ header h1 {
   justify-content: center;
 }
 .small {
+  color: #C21807;
   margin-top: 1em;
   font: small-caps 18px "Lato", sans-serif;
   font-weight: 900;
